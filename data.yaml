@@ -1,0 +1,10 @@
+path: /content/drive/MyDrive/Helmet_Detection_YOLO
+train: dataset_final/train/images
+val: dataset_final/valid/images
+test: dataset_final/test/images
+
+names:
+  0: helmet
+  1: no_helmet
+
+nc: 2
